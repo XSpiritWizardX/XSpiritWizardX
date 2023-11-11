@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XSpiritWizardX Nice to meet you
-- 👀 I’m interested in ... Learning how to code a 2d platformer
-- 🌱 I’m currently learning ... coding c# script for movement
-- 💞️ I’m looking to collaborate on ... my 2d platformer game
+- 👀 I’m interested in ... cool and unique apps... anything time travel?!? ... glitches in the matrix
+- 🌱 I’m currently learning ... softwareEngineering
+- 💞️ I’m looking to collaborate on ... awesome apps that could change the world.
 - 📫 How to reach me ... dustinboveemusic@gmail.com
 
 <!---
