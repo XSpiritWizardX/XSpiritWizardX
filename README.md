@@ -16,7 +16,6 @@
 📫 How to reach me ...
 
 - email: dbovee824@gmail.com
-- phone: +1(269)506-5112
 - linkedin: https://www.linkedin.com/in/dustin-bovee/
 - website: https://dustin-bovee.onrender.com/
 
