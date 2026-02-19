@@ -16,7 +16,7 @@
 📫 How to reach me ...
 
 - email: dbovee824@gmail.com
-- linkedin: https://www.linkedin.com/in/dustin-bovee/
+- linkedin: https://www.linkedin.com/in/dustinbovee/
 - website: https://dustin-bovee.onrender.com/
 
 <!---
