@@ -30,10 +30,9 @@ I help turn rough ideas, business problems, and manual workflows into working so
 * Android applications
 * Kotlin-based applications
 * Kotlin Multiplatform concepts and architecture
-* Shared-code application planning
 * Mobile-first product design
 * Cross-platform workflow systems
-* Web, mobile, and future desktop application planning
+* Web, mobile, and desktop applications
 * Smart glasses and connected-device application concepts
 
 ### AI, Data & Automation
@@ -110,15 +109,13 @@ Ollama, LLM tooling, prompt engineering, AI workflow design, automation agents, 
 
 ### DevOps & Deployment
 
-Git, GitHub, Docker, Render, Gunicorn, environment configuration, production deployment
+Git, GitHub, Docker, Render
 
 ### APIs & Integrations
 
-Stripe, SendGrid, Cloudinary, Google Analytics, third-party APIs, webhooks, authentication systems
+Payment Processors, third-party APIs, webhooks, authentication systems, CRMs, appointment scheduling
 
-### Other Tools
 
-Calendly, QuickBooks, FreshBooks, Qiskit
 
 ---
 
@@ -188,7 +185,7 @@ I’m open to collaborating on:
 
 When I take on a project, I bring ownership, urgency, and follow-through.
 
-I care about:
+I care deeply about:
 
 * Clear communication
 * Clean implementation
