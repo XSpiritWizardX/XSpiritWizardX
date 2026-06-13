@@ -1,114 +1,214 @@
 # 👋 Hey, I’m Dustin Bovee
 
-I’m a Full Stack Software Engineer with a strong focus on building practical, scalable, and creative software solutions.
+### Full-Stack Software Engineer | AI & Data Systems Builder
 
-I work across frontend, backend, databases, APIs, automation, and AI-driven systems. My background includes building full-stack web applications, e-commerce platforms, real-time features, admin tools, SEO-focused systems, and production-ready software for real business use cases.
+I build practical, scalable software for businesses, creators, and real-world workflows.
 
-I’m not just interested in writing code that works. I care about building software that solves problems, creates value, and feels good to use.
+My work spans full-stack web applications, e-commerce platforms, data-driven systems, automation tools, AI-powered applications, admin dashboards, APIs, databases, analytics workflows, multi-platform applications, and production-ready business software.
+
+I care about more than just writing code that runs. I care about building software that solves real problems, saves time, improves workflows, and creates measurable value.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Build
 
-- Build full-stack web applications
-- Design clean, responsive user interfaces
-- Develop backend APIs and database-driven systems
-- Work with authentication, authorization, and protected routes
-- Create admin dashboards, CRUD systems, and business tools
-- Integrate third-party APIs and services
-- Explore AI, machine learning, automation, and agentic workflows
-- Turn rough ideas into working products
+I help turn rough ideas, business problems, and manual workflows into working software.
+
+### Full-Stack Applications
+
+* Custom web applications
+* SaaS-style platforms
+* E-commerce systems
+* Customer portals
+* Admin dashboards
+* CRUD systems
+* Authentication and role-based access
+* Responsive frontend interfaces
+
+### Multi-Platform Applications
+
+* Android applications
+* Kotlin-based applications
+* Kotlin Multiplatform concepts and architecture
+* Shared-code application planning
+* Mobile-first product design
+* Cross-platform workflow systems
+* Web, mobile, and future desktop application planning
+* Smart glasses and connected-device application concepts
+
+### AI, Data & Automation
+
+* AI-powered tools and workflows
+* Machine learning experiments and prototypes
+* Data cleaning, analysis, and visualization
+* Data pipelines and platform integrations
+* LLM-powered applications
+* Business automation systems
+* Reporting and analytics dashboards
+* Agentic workflow experiments
+
+### Business Software
+
+* Internal tools
+* Workflow automation
+* Inventory and operations systems
+* Form systems and lead capture
+* API integrations
+* Payment and email integrations
+* SEO-focused web systems
+* Client-facing platforms
 
 ---
 
 ## 🧠 Current Focus
 
-Right now, I’m focused on growing deeper in:
+Right now, I’m focused on building deeper expertise in:
 
-- AI and machine learning development
-- Automation systems
-- LLM-powered applications
-- Software architecture
-- Cloud deployment
-- Production-grade engineering practices
-- Business-focused software solutions
+* AI engineering
+* Machine learning and deep learning
+* Data science and analytics
+* Data platforms like Databricks and Snowflake
+* Kotlin and Android development
+* Kotlin Multiplatform for shared application logic
+* Multi-platform software architecture
+* LLM applications and automation agents
+* Cloud deployment
+* Production-grade engineering practices
+* AR, smart glasses, and hands-free workflow systems
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-React, Redux, JavaScript, HTML, CSS, Responsive Design, Vite
+
+React, Redux, JavaScript, HTML, CSS, Vite, Responsive Design, UI/UX, Figma, Miro
 
 ### Backend
+
 Python, Flask, Node.js, Express, REST APIs, Flask-SocketIO, WebSockets
 
-### Databases
-PostgreSQL, SQLAlchemy, Sequelize, Alembic
+### Mobile & Multi-Platform
 
-### Tools & Platforms
-Git, GitHub, Docker, Render, Cloudinary, SendGrid, Stripe, Google Analytics
+Kotlin, Android Studio, Kotlin Multiplatform, mobile app architecture, shared-code application planning, Android-first development
 
-### AI / ML
-Python, scikit-learn, TensorFlow, Keras, PyTorch, NumPy, Pandas, Matplotlib, Qiskit, Ollama, LLM tooling
+### Databases & ORMs
+
+PostgreSQL, SQLite, SQLAlchemy, Alembic, Sequelize
+
+### Data Science & Machine Learning
+
+Python, NumPy, Pandas, Matplotlib, scikit-learn, TensorFlow, Keras, PyTorch, MLflow, Jupyter, data visualization, model evaluation, regression, classification, clustering
+
+### Data Platforms & Analytics
+
+Databricks, Snowflake, SQL, data pipelines, analytics workflows, reporting systems, Google Analytics
+
+### AI / LLM Tools
+
+Ollama, LLM tooling, prompt engineering, AI workflow design, automation agents, local AI experimentation
+
+### DevOps & Deployment
+
+Git, GitHub, Docker, Render, Gunicorn, environment configuration, production deployment
+
+### APIs & Integrations
+
+Stripe, SendGrid, Cloudinary, Google Analytics, third-party APIs, webhooks, authentication systems
+
+### Other Tools
+
+Calendly, QuickBooks, FreshBooks, Qiskit
 
 ---
 
-## 🎨 Creative Side
+## 💼 Featured Work
 
-I’ve always been drawn to creativity, not just code.
+### Stainless-Steel-Kitchens
 
-I’m interested in music, animation, videography, art, poetry, books, games, and creative technology. 
-That creative background shapes the way I build software. 
-I like making things that are useful, but I also care about how they feel, look, and connect with people.
+Production e-commerce platform built with React, Flask, PostgreSQL, Docker, Cloudinary, Stripe, analytics, admin tools, product management, customer workflows, and SEO-focused improvements.
 
-You might catch me experimenting with frontend animations, visual effects, UI polish, or creative app ideas just because I believe software should have personality.
+### Dream Grid Studios
+
+Custom software studio focused on business automation, AI systems, web applications, data workflows, multi-platform software, and production-ready tools for companies without internal software teams.
+
+### TaktSight
+
+Smart glasses and AI workflow concept focused on hands-free training, SOP guidance, quality inspection, hazard warnings, and real-time job assistance for workers, businesses, classrooms, and creators.
+
+### AI & Data Projects
+
+Ongoing work with machine learning, deep learning, data platforms, predictive systems, analytics workflows, and LLM-powered applications.
 
 ---
 
-## 💼 Professional Mindset
+## 🎨 Creative + Technical
 
-When I work on a project, I bring urgency, ownership, and follow-through.
+Before software, I came from a creative background involving music, media, visual design, storytelling, and problem-solving.
+
+That creativity still shapes how I build.
+
+I like software that is functional, but I also care about how it feels. Clean interfaces, smooth user experiences, visual polish, animation, and thoughtful design matter to me.
+
+I’m especially interested in the overlap between:
+
+* Software engineering
+* AI and machine learning
+* Data systems
+* Multi-platform applications
+* Creative technology
+* Education
+* Games and interactive experiences
+* AR and smart glasses
+* Business automation
+
+---
+
+## 🤝 What I’m Open To
+
+I’m open to collaborating on:
+
+* Full-stack web applications
+* Android applications
+* Kotlin Multiplatform projects
+* Business software
+* AI-powered tools
+* Data dashboards and analytics systems
+* Automation workflows
+* E-commerce platforms
+* Educational technology
+* Creative software
+* Music or media tools
+* AR and smart glasses applications
+* Internal company tools and dashboards
+
+---
+
+## 💡 How I Work
+
+When I take on a project, I bring ownership, urgency, and follow-through.
 
 I care about:
 
-- Clean implementation
-- Clear communication
-- Reliable delivery
-- Scalable structure
-- User experience
-- Business value
-- Continuous improvement
+* Clear communication
+* Clean implementation
+* Scalable structure
+* Real business value
+* User experience
+* Reliable delivery
+* Continuous improvement
+* Building things that actually get used
 
-I enjoy working with teams, solving hard problems, and building things that have real impact.
-
----
-
-## 🤝 Open To
-
-I’m interested in collaborating on:
-
-- Full-stack web applications
-- AI-powered tools
-- Music or creative software
-- Business automation systems
-- Educational platforms
-- Video game or interactive experiences
-- AR / Smart Glasses applications
+I enjoy working with teams, solving hard problems, and turning ideas into software that people can use in the real world.
 
 ---
 
 ## 📫 Connect With Me
 
-- Email: dbovee824@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dustinbovee/
-- Website: https://dustin-bovee.onrender.com/
+* Email: [dbovee824@gmail.com](mailto:dbovee824@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/dustinbovee/
+* Website: https://dustin-bovee.onrender.com/
 
 ---
 
-> Building software with purpose, creativity, and execution.
-
-<!---
-XSpiritWizardX/XSpiritWizardX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> Building software with purpose, creativity, data, and execution.
