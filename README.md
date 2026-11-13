@@ -1,6 +1,4 @@
-# 👋 Hey, I’m Dustin Bovee
-
-### Full-Stack Software Engineer | AI & Data Systems Builder
+# Full-Stack Software Engineer | AI & Data Systems Builder
 
 I build practical, scalable software for businesses, creators, and real-world workflows.
 
@@ -29,13 +27,12 @@ I care deeply about:
 * User experience
 * Reliable delivery
 * Continuous improvement
-* Building things that actually get used
 
 I enjoy working with teams, solving hard problems, and turning ideas into software that people can use in the real world.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Languages:** Python, JavaScript, TypeScript, Java, C, C++, C#, Rust, Go, SQL, Kotlin, Swift, R, Bash, PowerShell, Elixir, Lisp, Clojure.
 
@@ -51,7 +48,7 @@ I enjoy working with teams, solving hard problems, and turning ideas into softwa
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 * Email: [dbovee824@gmail.com](mailto:dbovee824@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/dustinbovee/
