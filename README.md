@@ -1,46 +1,20 @@
-# 👋 Hey, I’m Dustin Bovee
+# Dustin Bovee
+### Full-Stack Software Engineer | AI/ML & Data Systems Builder
 
-### Full-Stack Software Engineer | AI & Data Systems Builder
+I build practical, scalable software that connects **full-stack engineering, AI, automation, and user-centered design**. My focus is on real-world workflows, reliable systems, and software that creates measurable business value.
 
-I build practical, scalable software for businesses, creators, and real-world workflows.
+**Core stack:** Python · JavaScript · TypeScript · React · Flask · FastAPI · Node.js · PostgreSQL · SQLAlchemy · REST APIs · Docker · GitHub Actions · AWS · Render
 
-My work spans full-stack web applications, e-commerce platforms, data-driven systems, automation tools, AI-powered applications, admin dashboards, APIs, databases, analytics workflows, multi-platform applications, and production-ready business software.
+**AI & data:** PyTorch · TensorFlow · scikit-learn · Pandas · NumPy · Computer Vision · Object Detection · LLM Integration · Data Pipelines · ML Automation
 
-I care about more than just writing code that runs. I care about building software that solves real problems, saves time, improves workflows, and creates measurable value.
+### Featured projects
 
----
+- **Dream Grid Nexus** — A financial intelligence and trading platform built around gamma-exposure analysis, market data, and automated trading workflows. *Designed to support decision-making and trading automation; profitability is not asserted.*
+- **ApplyOps (Dream Grid Application Operations)** — Recruitment and job-search automation with job discovery, recruiter CRM workflows, application tracking, reporting, and cross-platform application tooling.
+- **Taktsight** — An AI-assisted, hands-free skills-training platform using object detection, voice-controlled navigation, and enterprise-focused capabilities. Designed to help learners reduce time to proficiency during tasks requiring hands-free practice.
 
+I bring a background in creative production and engineering to building intuitive interfaces, automation systems, and technical products.
 
-Before software, I came from a creative background involving music, media, visual design, storytelling, and problem-solving.
+**Connect:** [Portfolio](https://dustin-bovee.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/dustinbovee/) · [Email](mailto:dbovee824@gmail.com)
 
-That creativity still shapes how I build.
-
-I like building software that solves complex problems, and I also care about how it feels. Clean interfaces, smooth user experiences, visual polish, animation, and thoughtful design matter to me.
-
-
-When I take on a project, I bring ownership, urgency, and follow-through.
-
-I care deeply about:
-
-* Clear communication
-* Clean implementation
-* Scalable structure
-* Real business value
-* User experience
-* Reliable delivery
-* Continuous improvement
-* Building things that actually get used
-
-I enjoy working with teams, solving hard problems, and turning ideas into software that people can use in the real world.
-
----
-
-## 📫 Connect With Me
-
-* Email: [dbovee824@gmail.com](mailto:dbovee824@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/dustinbovee/
-* Website: https://dustin-bovee.onrender.com/
-
----
-
-> Building software with purpose, creativity, data, and execution.
+[Explore my broader technical skills inventory](TECHNICAL_SKILLS.md)
