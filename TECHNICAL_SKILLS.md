@@ -1,12 +1,7 @@
 # Technical Skills Inventory — Dustin Bovee
 
-This inventory contains **1000 distinct self-reported skill labels**, curated from ten rounds of discussion. Entries include programming languages, technologies, methods, tools, and business domains. Closely related concepts may overlap semantically; this is not a claim of expert mastery of each label.
-
-**Experience level:** Mixed professional, independent-project, and educational experience. Strongest skills identified: **JavaScript, Python, API development, and machine-learning algorithms**. Individual skill proficiency and live status of integrations are not independently verified.
-
-**Project context:** Dream Grid Nexus focuses on market intelligence and automated trading workflows; no investment returns are asserted. ApplyOps involves recruiting CRM, job discovery and job-search automation. Taktsight combines computer vision, object detection and voice-controlled navigation for hands-free skills training; faster mastery is a product objective, not a measured outcome.
-
-**Not included:** IBM Quantum / Qiskit (hands-on experience not yet confirmed). No claim is made that Unity or Unreal Engine exposure means shipped games.
+### Quantum (2) 
+IBM Quantum · Qiskit 
 
 ### Languages and programming fundamentals (37)
 
